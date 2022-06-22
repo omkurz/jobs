@@ -4,6 +4,10 @@
     - exam in economics, maths, statistics
     - work experience
     - expertise in SQL and data visualization
+    
+    - it is clear what they want
+    
+    
 
 - [NewYorker](https://www.stepstone.de/stellenangebote--BI-Data-Analyst-Business-Analyst-Schwerpunkt-Microsoft-Braunschweig-Berlin-Schoeneberg-NEW-YORKER--8413078-inline.html?suid=9e728730-a245-4b03-8ae4-7c6a9646296d&rltr=17_17_25_dynrl_m_0_0_0_0_0_0)
 ---
